@@ -30,5 +30,5 @@ This tool provides decoding-encoding with SHA256-512.
 	  CommandLine ~$ python3 sha256-512.py -hs ff5bb17dfe26eba3c6ac9641a70a96d92b1e7f219899ec58141b643c67d8d6fc21dd5f731d095d0f07eefd771be1bab459a4e7e8bb95d9768e6498b106c9f923 -p C:\Users\user1 -d
 	  
 	  DECODED OBJECT (SHA512):  ff5bb17dfe26eba3c6ac9641a70a96d92b1e7f219899ec58141b643c67d8d6fc21dd5f731d095d0f07eefd771be1bab459a4e7e8bb95d9768e6498b106c9f923 RESULT: cyber
-	```
+```
 Attention:Only Educational Purposes.
